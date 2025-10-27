@@ -1,17 +1,17 @@
 # 💻 Tech Stack:
-🖥️ Programming Languages
+🖥️ Programming Languages:
 C++
 Python
 
-🧰 Development Platform
+🧰 Development Platform:
 Anaconda
 
-🗄️ Databases
+🗄️ Databases:
 MongoDB
 MySQL
 Neo4j
 
-🤖 Machine Learning & AI Libraries
+🤖 Machine Learning & AI Libraries:
 TensorFlow
 scikit-learn
 Keras
