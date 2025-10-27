@@ -1,4 +1,5 @@
 # 💻 Tech Stack:
+C++ Python R Anaconda MongoDB MySQL Neo4J TensorFlow scikit-learn Keras SciPy
 
 # Git Hub Stats:
 
