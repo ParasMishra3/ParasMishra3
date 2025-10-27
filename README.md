@@ -1,7 +1,7 @@
 # 💻 Tech Stack:
 🖥️ Programming Languages: C++,Python
 
-🧰 Development Platform: Anaconda
+🧰 Development Platform: Anaconda,Databricks
 
 🗄️ Databases: MongoDB,MySQL,Neo4j
 
