@@ -1,8 +1,8 @@
 # 💻 Tech Stack:
-🖥️ Programming Languages: C++,Python
-🧰 Development Platform: Anaconda
-🗄️ Databases: MongoDB,MySQL,Neo4j
-🤖 Machine Learning & AI Libraries: TensorFlow,scikit-learn,Keras,SciPy
+# 🖥️ Programming Languages: C++,Python
+# 🧰 Development Platform: Anaconda
+# 🗄️ Databases: MongoDB,MySQL,Neo4j
+# 🤖 Machine Learning & AI Libraries: TensorFlow,scikit-learn,Keras,SciPy
 
 # Git Hub Stats:
 
