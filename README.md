@@ -3,7 +3,7 @@
 
 🧰 Development Platform: Anaconda,Databricks
 
-🗄️ Databases: MongoDB,MySQL,Neo4j
+🗄️ Databases: MySQL,sqlite
 
 🤖 Machine Learning & AI Libraries: TensorFlow,scikit-learn,Keras,SciPy
 
